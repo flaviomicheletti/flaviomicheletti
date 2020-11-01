@@ -1,9 +1,3 @@
 # oi
 
-<style type="text/css" media="all">
-*, body {
-    background-color: rgb(0, 0, 0);
-    font-size: 12px;
-    color: #767676;
-}
-</style>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomicheletti&theme=black" />
