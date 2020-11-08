@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Flávio</a>.<br> I'm a Developer from Brazil.<br><br>#javascript, #python, #php</samp>
+  <samp>Hello there. I'm <a href="http://devfuria.com.br/portifolio/">Flávio</a>.<br> I'm a Developer from Brazil.<br><br>#aws #azure #javascript, #python, #php</samp>
   <br>
   <br>
   <br>
